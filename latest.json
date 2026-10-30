@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "Bluetooth: kablo takılı değilken uygulama karta Bluetooth üzerinden bağlanır; Spotify, buton olayları ve firmware güncellemesi kablosuz da çalışır. Kart sekmesinde Bluetooth ayarları (HID modu, eşleştirme, eşleşmeleri silme). Kart firmware 0.9.1.",
-  "pub_date": "2026-10-30T12:07:26Z",
+  "version": "0.8.0",
+  "notes": "Ekran ve güç: kartın ekranı boşta kalınca kısılır, sonra kapanır; süreler Kart > Ekran ve güç bölümünden ayarlanır. Kapalı ekrana ilk dokunuş yalnızca ekranı açar. Kartın Ayarlar sayfasına Ekranı kapat düğmesi eklendi. Kart firmware 0.10.0.",
+  "pub_date": "2026-10-30T18:21:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzUrSkdjbE9XZGRjN3Uxa0xvL0RjaVBzTTRrL2tRSUdpaUNqR0ZaSEJBUUpmUmx6WXdkK3JjWHlrcFZ3VWlIa3JvbTk5Wmo0ekFIRy80Y0pOaVdrQVkvZUlBMTA4dHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzYxOTQxCWZpbGU6c3RyZWFtZGVja18wLjcuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC43LjAKZ0MxZUEzVVRBMXVpbExFZXRxUzN6QlNwQTFRUlZDaUpRTGZEcmtha3ZST1pleHJjZzEyL0lWS3g2WWw0YlRUMGdKM1pFd0g1Q080SHNRcUMxd2hnREE9PQo=",
-      "url": "https://raw.githubusercontent.com/brkacr1503/streamdeck-releases/main/v0.7.0/streamdeck_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzUrSkdjbE9XZGRLTUpmeFp6enczVFovV2toWVduSUVoYXluMFloaXRFVWRheU5Md0hHMWxHZzFPZnEreHkyMlFzeWNBd3I3cUpBWU5YSzEyQ1FEMGg0ek84R2VtdFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg0NDI5CWZpbGU6c3RyZWFtZGVja18wLjguMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC44LjAKRDhLbEtobFltTUZ6RnBRVG9sWGtlNDNFb0tVV3BmbE9VTU9rdGRzTkwydGJnWlhla2FEUnJON0p4OVNWSmFRUlJOWWpnck9abWZSK2YydXFJQ0cwREE9PQo=",
+      "url": "https://raw.githubusercontent.com/brkacr1503/streamdeck-releases/main/v0.8.0/streamdeck_0.8.0_x64-setup.exe"
     }
   }
 }
