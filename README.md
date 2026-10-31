@@ -33,6 +33,12 @@ Bu uyarılar dosyada virüs olduğu anlamına gelmez. Windows'un yayımcıyı ta
 2. Windows'ta **Ayarlar → Bluetooth ve cihazlar → Cihaz ekle → Bluetooth** deyin ve listeden **streamdeck**'i seçin.
 3. Bir kez eşleştirmek yeter. Kart bilgisayara takılı değilken, örneğin şarj aletindeyken, tuşlar Bluetooth'tan gider ve uygulama karta Bluetooth'tan bağlanır. Kablo takılınca ikisi de kendiliğinden USB'ye döner.
 
+## Düzenleriniz
+
+- Her düzen ayrı bir dosya olarak **Belgeler\streamdeck\Düzenler** klasöründe durur; uygulama kaldırılsa da silinmez. Düzenler arasında **Düzen** sekmesinin üstündeki düzen adından geçilir.
+- Başka bir bilgisayara taşımak ya da paylaşmak için: düzen menüsü → **Dışa aktar…** bir `.duzen` dosyası yapar (resimler, kayıtlı renkler ve makrolar dahil). Diğer bilgisayarda **İçe aktar…** ile açılır.
+- İçe aktarırken, düzendeki butonların bilgisayarda açacağı programlar ve siteler gösterilir. Tanımadığınız bir program varsa içe aktarmayın.
+
 ## Güncellemeler
 
 - Yeni sürüm çıkınca uygulama üstte haber verir; **Kur ve yeniden başlat** demeniz yeter.
